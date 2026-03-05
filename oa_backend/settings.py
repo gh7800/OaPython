@@ -40,7 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
+    'rest_framework_simplejwt',
+    'users',
 ]
+
+# 添加认证模型配置
+AUTH_USER_MODEL = 'users.CustomUser'
 
 DATABASES = {
     'default': {
