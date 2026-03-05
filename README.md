@@ -33,6 +33,7 @@
   - **8.1创建数据库 python manage.py migrate**
   - **8.2创建超级管理员 python manage.py createsuperuser**
   - **8.3添加django 应用 python manage.py startapp 应用名** (例如: `python manage.py startapp users`)
+  - **8.4添加应用并指定目录 python manage.py startapp users apps/users**
 #### 9、django框架
 - **9.1安装django  ( uv install django)**
 - **9.2生成迁移文件 python manage.py makemigrations users**
