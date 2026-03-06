@@ -26,10 +26,10 @@
 
 #### 5、运行项目
 
-- 5.1运行项目 python main.py
-- 5.2运行项目 python main.py --port 8080
-- 5.3运行项目 python main.py --port 8080 --debug
-- 5.4运行项目 python main.py --port 8080 --debug --host 0.0.0.0
+- 5.1运行项目 python main.py (例如: `python main.py`)
+- 5.2运行项目 python main.py --port 8080 (例如: `python main.py --port 8080`)
+- 5.3运行项目 python main.py --port 8080 --debug (例如: `python main.py --port 8080 --debug`)
+- 5.4运行项目 python main.py --port 8080 --debug --host 0.0.0.0 (例如: `python main.py --port 8080 --debug --host 0.0.0.0`)
 
 #### 6、项目框架
 
